@@ -1,11 +1,11 @@
-# [Group name]
+# Ren Hygge
 
-**Group members:**
-- A
-- B
-- C
+Group members:
+- Rasmus Kjersgaard Thagesen
+- Oliver Tesgaard
+- Andreas Thousig Sehestes
 
-**This repository contains:***
+This repository contains:
 
 1. Data project
 1. Model project
